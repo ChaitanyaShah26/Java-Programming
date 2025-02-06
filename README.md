@@ -6,6 +6,12 @@
 Earlier Java was called *Oak* by James Gosling (one of the inventors of Java) which was later renamed as *Green* and then finally named as *Java*.
 Java is the first language which gives us facility of the multi threading type of the programming.
 
+## Overview
+- [Setting up Java](#setting-up-java)
+- [How to Write -> Compile -> Execute Java program?](#how-to-write---compile---execute-java-program)
+- [How to set path on command prompt?](#how-to-set-path-on-command-prompt)
+- [Content of Repository](#content-of-repository)
+
 
 ## Setting up Java
 Before starting with Java make sure to setup Java on your local machines. Follow the below steps to get going:
@@ -86,6 +92,8 @@ set path = "(Bin Location)"
   </details>
 </blockquote>
 
+
+## Content of Repository
 
 
 ## 🌟🌟
